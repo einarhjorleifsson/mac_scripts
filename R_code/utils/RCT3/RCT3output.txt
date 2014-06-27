@@ -1,0 +1,40 @@
+Analysis by RCT3_R ver3.1 of data from file :
+
+RCT3/RCT3init.txt
+
+RCT3 for NEA Mackerel
+
+Data for 1 surveys over 23 years :  1990 - 2012
+
+Regression type = c
+Tapered time weighting applied
+Power = 3 over 20 years
+Survey weighting not applied
+Final estimates shrunk towards mean
+Minimum S.E. for any survey taken as 0.000
+Minimum of   3 points used for regression
+
+Forecast/Hindcast variance correction used.
+ 
+
+yearclass = 2012
+
+          I-----------Regression----------I  I-----------Prediction---------I
+
+ Survey/  Slope  Inter-   Std  Rsquare  No.  Index Predicted   Std     WAP
+ Series           cept   Error          Pts  Value   Value    Error   Weights
+
+ IBTS.index   1.77  14.33   0.37  0.544     14   0.83   15.80    0.433    0.461
+
+                                        VPA Mean =   15.44    0.400    0.539
+
+
+
+
+
+
+ Year     Weighted      Log     Int     Ext     Var     VPA      Log
+ Class     Average      WAP     Std     Std    Ratio             VPA
+          Prediction           Error   Error
+
+ 2012     6009598     15.61    0.29    0.18     0.37

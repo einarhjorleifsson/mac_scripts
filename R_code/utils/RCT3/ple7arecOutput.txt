@@ -1,0 +1,63 @@
+Analysis by RCT3_R ver3.1 of data from file :
+
+ple7arec.csv
+
+Irish sea plaice recruits,,,RCRTINX data file generation,,,,
+
+Data for 6 surveys over 17 years :  1974 - 1990
+
+Regression type = c
+Tapered time weighting applied
+Power = 3 over 20 years
+Survey weighting not applied
+Final estimates shrunk towards mean
+Minimum S.E. for any survey taken as 0.000
+Minimum of   3 points used for regression
+
+Forecast/Hindcast variance correction used.
+ 
+
+yearclass = 1989
+
+          I-----------Regression----------I  I-----------Prediction---------I
+
+ Survey/  Slope  Inter-   Std  Rsquare  No.  Index Predicted   Std     WAP
+ Series           cept   Error          Pts  Value   Value    Error   Weights
+
+  ssoct0   1.00   4.43   1.46  0.079     13   3.47    7.89    1.818    0.045
+  ssjun1  17.65 ******  19.14  0.000     14   6.08   -5.75   22.687    0.000
+  ssoct1 -10.62  89.93  11.00  0.001     14   5.61   30.43   14.638    0.001
+  ssjun2  -3.59  36.86   2.35  0.031     15   6.18   14.66    3.175    0.015
+  ssoct2                                                                    
+  irmay1   3.72  -0.68   2.56  0.029     13   2.12    7.21    3.135    0.015
+
+                                        VPA Mean =    9.83    0.401    0.924
+
+
+yearclass = 1990
+
+          I-----------Regression----------I  I-----------Prediction---------I
+
+ Survey/  Slope  Inter-   Std  Rsquare  No.  Index Predicted   Std     WAP
+ Series           cept   Error          Pts  Value   Value    Error   Weights
+
+  ssoct0   1.01   4.35   1.46  0.081     13   5.38    9.76    1.703    0.054
+  ssjun1 ****** ****** 380.51  0.000     14   6.77   89.18  442.393    0.000
+  ssoct1                                                                    
+  ssjun2                                                                    
+  ssoct2                                                                    
+  irmay1   4.38  -2.62   3.03  0.021     13   2.62    8.84    3.593    0.012
+
+                                        VPA Mean =    9.83    0.408    0.934
+
+
+
+
+
+
+ Year     Weighted      Log     Int     Ext     Var     VPA      Log
+ Class     Average      WAP     Std     Std    Ratio             VPA
+          Prediction           Error   Error
+
+ 1989       17687      9.78    0.39    0.44     1.32
+ 1990       18341      9.82    0.39    0.07     0.04
